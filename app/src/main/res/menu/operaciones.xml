@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itConsultar"
+        android:title="Consultar">
+    </item>
+    <item
+        android:id="@+id/itInsertar"
+        android:title="Consultar">
+    </item>
+    <item
+        android:id="@+id/itEliminar"
+        android:title="Consultar">
+    </item>
+    <item
+        android:id="@+id/itActualizar"
+        android:title="Consultar">
+    </item>
+</menu>
